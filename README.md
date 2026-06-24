@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[vladkrutenyuk.github.io](https://vladkrutenyuk.github.io "My page")
+[kvyverse.com](https://kvyverse.com "Kvyverse")
 <!--
 **vladkrutenyuk/vladkrutenyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
